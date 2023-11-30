@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=AdriMM26&&show_icons=true&&theme=dark" width="60%"/>
 </p>
 <p align="right">
-  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptex&hide=shaderlab,Jupyter%20Notebook,hlsl&layout=compact&theme=transparent)](https://github.com/EncryptEx)
+  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriMM26&hide=shaderlab,Jupyter%20Notebook,hlsl&layout=compact&theme=transparent)](https://github.com/AdriMM26)
 </p>
