@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=AdriMM26&&show_icons=true&&theme=dark" width="60%"/>
+  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=AdriMM26&&show_icons=true&&theme=dark" width="80%"/>
 </p>
 <!--
 <p align="right">
