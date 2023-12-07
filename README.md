@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=AdriMM26&&show_icons=true&&theme=dark" width="80%"/>
 </p>
-<!--
-<p align="right">
-  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriMM26&hide=shaderlab,Jupyter%20Notebook,hlsl&layout=compact&theme=transparent)](https://github.com/AdriMM26)
-</p>
--->
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdriMM26&show_icons=true&theme=onedark&title_color=ffffff&text_color=c2c2c2&locale=en&layout=compact" alt="AdriMM26" /></p>
