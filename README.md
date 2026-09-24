@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the main landing pages for HackersAtUPC
-- 🌱 I’m currently working on my cybersecurity career
-- 💬 Ask me about hackathons, I've been in quite a lot and I am part of the organization of HackUPC
-- ⚡ Fun fact: Although being a programmer, I love nature
+- 🔭 I’m currently working on own projects
+- 🌱 I’m currently working on my MsC on cybersecurity.
+- 💬 Ask me about hackathons, cybersecurity or any topic to geek about.
 
 <br>
 <p align="center">
